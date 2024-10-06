@@ -10,7 +10,7 @@ def is_credit_card_valid(card_number):
 
 # Let's tell the world whose awful credit card validator this is.
 
-print ("[Your Name's] Credit Card Validator")
+print ("Davesh Yadav Credit Card Validator")
 
 # Let's get the card number from the user
 
